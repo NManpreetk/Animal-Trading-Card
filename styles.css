@@ -1,0 +1,39 @@
+/* add your CSS here */
+body{
+    width:320px;
+}
+img{
+    width:300px;
+}
+.class1{
+    padding:10px;
+    border:1px solid rgb(223, 220, 220);
+    box-shadow:7px 7px rgb(236, 234, 234);
+}
+.class2{
+    padding:10px;
+    border:1px solid rgb(194, 192, 192);
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.introduction{
+    font-style:italic;
+}
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+.items{
+    font-weight:bold;
+}
+span{
+    font-style:bold;
+}
+div.part{
+    border:6px double #63777a;
+    border-width:6px;
+    border-style:double;
+    border-color:#63777a;
+}
